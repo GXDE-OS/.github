@@ -1,6 +1,9 @@
 ### 介绍
 旨在能在更高的底层运行 DDE 15 桌面环境
 
+DebianDDE QQ 交流群：881201853  
+Telegram：https://t.me/debiandde  
+
 ![深度截图_dde-desktop_20240207201018.png](https://storage.deepin.org/thread/202402071219394989_深度截图_dde-desktop_20240207201018.png)
 
 ![深度截图_dde-desktop_20240207201001.png](https://storage.deepin.org/thread/202402071219393497_深度截图_dde-desktop_20240207201001.png)
@@ -12,6 +15,8 @@
 ![深度截图_选择区域_20240207201902.png](https://storage.deepin.org/thread/20240207121939689_深度截图_选择区域_20240207201902.png)
 
 ![深度截图_选择区域_20240207200647.png](https://storage.deepin.org/thread/202402071219395788_深度截图_选择区域_20240207200647.png)
+
+
 
 ### ISO 下载地址
 123盘：https://www.123pan.com/s/pDSKVv-RJBWv.html
