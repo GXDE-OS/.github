@@ -9,14 +9,6 @@ In order to solve this problem, GXDE has been under development. It is on the ba
 （GXDE 全称为 Gorgeous eXtended Deepin Environment）
 
 
-![image.png](https://storage.deepin.org/thread/20240323104713503_image.png)
-
-![image.png](https://storage.deepin.org/thread/20240323104646564_image.png)
-
-![image.png](https://storage.deepin.org/thread/202403231055259300_image.png)
-
-![image.png](https://storage.deepin.org/thread/202403231050558804_image.png)
-
 
 
 ### 捐助
