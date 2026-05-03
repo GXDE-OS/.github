@@ -58,17 +58,6 @@ jobs:
       gxde-codename-upload: zhuangzhuang
       gxde-cross-arch: arm64
 
-  call-mips64el-zhuangzhuang:
-    uses: GXDE-OS/GXDE/.github/workflows/building-deb-base.yml@master
-    secrets: inherit
-    with:
-      display-name: mips64el-zhuangzhuang
-      arch: amd64
-      rootfs-codename: sid
-      rootfs-source: https://snapshot.debian.org/archive/debian/20250809T023713Z/
-      gxde-codename: lizhi
-      gxde-codename-upload: zhuangzhuang
-
   call-riscv64-zhuangzhuang:
     uses: GXDE-OS/GXDE/.github/workflows/building-deb-base.yml@master
     secrets: inherit
