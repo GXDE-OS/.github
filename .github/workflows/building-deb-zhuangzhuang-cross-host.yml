@@ -80,3 +80,4 @@ jobs:
       rootfs-source: https://deb.debian.org/debian/
       gxde-codename: lizhi
       gxde-codename-upload: zhuangzhuang
+      gxde-cross-arch: loong64

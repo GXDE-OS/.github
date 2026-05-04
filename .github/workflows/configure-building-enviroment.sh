@@ -34,10 +34,10 @@ fi
 apt install -f -y
 apt install debian-ports-archive-keyring debian-archive-keyring -y
 if [[ -f /sources-list/sources-$1.list ]]; then
-    if [[ $(dpkg --print-architecture) == "riscv64" ]]; then
+    if [[ $(dpkg --print-architecture) == "riscv64" ]] || [[ $GXDE_CROSS_ARCH == "riscv64" ]]; then
         cp /sources-list/sources-$1-without-backport.list /etc/apt/sources.list.d -v
     else
-        if [[ $(dpkg --print-architecture) == "loong64" ]]; then
+        if [[ $(dpkg --print-architecture) == "loong64" ]] || [[ $GXDE_CROSS_ARCH == "loong64" ]]; then
             cp /sources-list/sources-$1-loong64.list /etc/apt/sources.list.d -v
         else
             cp /sources-list/sources-$1.list /etc/apt/sources.list.d -v
