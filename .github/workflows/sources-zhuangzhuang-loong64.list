@@ -1,5 +1,5 @@
-deb [trusted=true] http://loong13.debian.net/debian-loong64/ trixie main contrib non-free non-free-firmware
-deb-src [trusted=true] http://loong13.debian.net/debian-loong64/ trixie main contrib non-free non-free-firmware
+deb http://loong13.debian.net/debian-loong64/ trixie main contrib non-free non-free-firmware
+deb-src http://loong13.debian.net/debian-loong64/ trixie main contrib non-free non-free-firmware
 
 deb [trusted=true] http://loong13.debian.net/debian-loong64/ trixie-updates main contrib non-free non-free-firmware
 deb-src [trusted=true] http://loong13.debian.net/debian-loong64/ trixie-updates main contrib non-free non-free-firmware
